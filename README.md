@@ -1,25 +1,25 @@
 Kelly Tang
 
-Hstat
+**Hstat**
 
 Email: kellyt7407@hstat.org
 
 I'm a student in HSTAT, also in the Software Engineering Program.
 
-schedule: 
+***schedule:*** 
 
-Spanish 5
+*Spanish 5 *
 
-SEP
+*SEP*
 
-Ap Lang
+*Ap Lang*
 
-APUSH
+*APUSH*
 
-Gym
+*Gym*
 
-Algebra 2
+*Algebra 2*
 
-Lunch
+*Lunch*
 
-Physics
+*Physics*git 
